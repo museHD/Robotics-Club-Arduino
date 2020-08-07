@@ -1,9 +1,10 @@
 # Robotics-Club-Arduino
 
 ## Contents:
-
+### [IR-Media-Controller](/IR-Media-Controller)
+<strong>Description:</strong> Control VLC Media player using an IR remote and a Python Script.
 ### [IR-Motor](/IR-Motor)
-<strong>Description:</strong> Control the speed DC motor with an IR Sensor and Arduino.
+<strong>Description:</strong> Control the speed DC motor with an IR remote.
 
 ### [LCD-Current](/LCD-Current)
 <strong>Description:</strong> Display the current date, time and temperature on a 16x2 LCD display using an RTC module.
