@@ -3,19 +3,19 @@
 ## Contents:
 
 ### IR-Motor
-Description: Control the speed DC motor with an IR Sensor and Arduino.
+<strong>Description:</strong> Control the speed DC motor with an IR Sensor and Arduino.
 
 ### LCD-Current
-Description: Display the current date, time and temperature on a 16x2 LCD display using an RTC module.
+<strong>Description:</strong> Display the current date, time and temperature on a 16x2 LCD display using an RTC module.
 
 ### LED-Pattern
-Description: Iterate through and blink multiple LEDs.
+<strong>Description:</strong> Iterate through and blink multiple LEDs.
 
 ### Libraries
-Description: Useful Libraries for Arduino.
+<strong>Description:</strong> Useful Libraries for Arduino.
 
 ### Reading-Sensor
-Description: Read from an Analog sensor and smoothen the values to get a more consistent output.
+<strong>Description:</strong> Read from an Analog sensor and smoothen the values to get a more consistent output.
 
 ### Robot-Main
-Description: Code for moving the robot using Motor Control Circuits.
+<strong>Description:</strong> Code for moving the robot using Motor Control Circuits.
